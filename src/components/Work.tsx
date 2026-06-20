@@ -19,6 +19,12 @@ const projects = [
     tools: "OpenCV, Media Pipe, PyGame",
     image: "https://tinyurl.com/yshhc5fn",
   },
+  {
+    name: "Diabetes Detection Based on Machine learning",
+    category: "Smart Web Application",
+    tools: "Python, Flask, Machine Learning, Random Forest, Pandas, Scikit-learn",
+    image: "/images/diabetes-detection.png",
+  },
 ];
 
 const Work = () => {
